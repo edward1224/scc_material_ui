@@ -1,3 +1,13 @@
+# SCC Project Team 9
+
+## Team Notes
+- make changes
+- commit changes
+- ```git push origin master: branch_name```
+- create a pull request 
+- comparing the master branch with branch_name
+<hr>
+
 <p align="center">
   <a href="https://material-ui.com/" rel="noopener" target="_blank"><img width="150" src="https://material-ui.com/static/images/material-ui-logo.svg" alt="Material-UI logo"></a></p>
 </p>
