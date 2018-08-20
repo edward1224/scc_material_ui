@@ -19,6 +19,8 @@
   
 [![codecov](https://codecov.io/gh/DheenodaraRao/scc_material_ui/branch/master/graph/badge.svg)](https://codecov.io/gh/DheenodaraRao/scc_material_ui)
 
+[![CircleCI token](https://img.shields.io/circleci/token/YOURTOKEN/project/github/RedSparr0w/node-csgo-parser/master.svg)](https://circleci.com/gh/DheenodaraRao/scc_material_ui)
+
 </div>
 
 <hr>
