@@ -13,7 +13,15 @@
 </p>
 
 <h1 align="center">Material-UI</h1>
+<h2 align="center">My Team Analysis</h2>
+<div allign="center">
+<img src='https://bettercodehub.com/edge/badge/DheenodaraRao/scc_material_ui?branch=master'>
+  
+[![codecov](https://codecov.io/gh/DheenodaraRao/scc_material_ui/branch/master/graph/badge.svg)](https://codecov.io/gh/DheenodaraRao/scc_material_ui)
 
+</div>
+
+<hr>
 <div align="center">
 
 [React](http://facebook.github.io/react/) components that implement [Google's Material Design](https://www.google.com/design/spec/material-design/introduction.html).
